@@ -35,7 +35,7 @@ d_os['container_uptime']=300
 d_os['proceed_nextq']=True
 d_os['move_to_stopq']=True
 d_os['num_instance']=1
-d_os['username']="kamalg"
+d_os['username']="lg"
 ###EDIT ME
 
 
