@@ -146,7 +146,7 @@ def create_container(d_os):
 	    print out
             d_os['imgid'] = out.rstrip()
 	    num -= 1
-            if d_os['code'] == 1 and  d_os['username'] == "kamalg" or  d_os['username'] == "selvaanand":
+            if d_os['code'] == 1 :
 	        programmingsite.movedata_host2ct(d_os)
 
     if d_os['proceed_nextq'] :
